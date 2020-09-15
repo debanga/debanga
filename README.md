@@ -14,6 +14,14 @@ Ph.D (UBC), B. Tech (IITG), CF & CTO (Nytilus INC.)
 - Homepage: https://debanga.github.io 
 - LinkedIn: https://www.linkedin.com/in/debanga/
 
+## Research collaborations 
+- 2019-ongoing: Iwahori Lab, Chubu University, Japan & Image Processing and Computer Vision (IPCV) Lab, IIT Guwahati, India
+- 2016-2017: IMAGINE Lab, INRIA Grenoble Rhone-Alpes, France
+- 2011-2012: IMAGER Lab, UBC, Canada
+- 2011-2012: Iwahori Lab, Chubu University, Japan
+- 2010-2011: Computer Vision and Fuzzy Systems Lab, Hanyang University, South Korea
+- 2010-2012: Image Processing and Computer Vision (IPCV) Lab, IIT Guwahati, India
+
 ## Broad areas of interest
 - Computer vision
 - Machine learning, in particular deep learning
