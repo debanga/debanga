@@ -4,7 +4,7 @@ Ph.D (UBC), B. Tech (IITG), CF & CTO (Nytilus INC.)
 
 ## Who am I? 
 
-- Co-founder and CTO at [Nytilus](https://www.nytilus.com/), a computational imaging startup for industrial applications. Raised seed investments from early stage VCs and Canadian industrial grants.
+- **Co-founder and CTO at [Nytilus](https://www.nytilus.com/), a computational imaging startup for industrial applications. Raised seed investments from early stage VCs and Canadian industrial grants.**
 - Ph.D. in Computer Science from The University of British Columbia (UBC), Vancouver, Canada.
 - B.Tech in Electronics and Communication Engineering from the Indian Institute of Technology Guwahati (IITG).
 - 12+ years of experience in leading academic and industrial projects in the areas of computer vision, computer graphics, and machine learning.
@@ -15,7 +15,7 @@ Ph.D (UBC), B. Tech (IITG), CF & CTO (Nytilus INC.)
 - LinkedIn: https://www.linkedin.com/in/debanga/
 
 ## Research collaborations 
-- 2019-ongoing: Iwahori Lab, Chubu University, Japan & Image Processing and Computer Vision (IPCV) Lab, IIT Guwahati, India
+- **2019-(Ongoing): Iwahori Lab, Chubu University, Japan & Image Processing and Computer Vision (IPCV) Lab, IIT Guwahati, India**
 - 2016-2017: IMAGINE Lab, INRIA Grenoble Rhone-Alpes, France
 - 2011-2012: IMAGER Lab, UBC, Canada
 - 2011-2012: Iwahori Lab, Chubu University, Japan
