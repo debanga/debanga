@@ -1,3 +1,7 @@
+# DEBANGA RAJ NEOG
+#### COMPUTER VISION RESEARCHER, ENTREPRENEUR
+Ph.D (UBC), B. Tech (IITG), CF & CTO (Nytilus INC.)
+
 ## Who am I? 
 
 - Co-founder and CTO at [Nytilus](https://www.nytilus.com/), a computational imaging startup for industrial applications. Raised seed investments from early stage VCs and Canadian industrial grants.
