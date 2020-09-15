@@ -11,6 +11,8 @@ Ph.D (UBC), B. Tech (IITG), CF & CTO (Nytilus INC.)
 - Recipient of Mitacs-INRIA Globalink Research Award and Four-Year Doctoral Fellowship at UBC.
 - 15+ in peer reviewed research papers in conferences and journals ([Google Scholar](https://scholar.google.com/citations?user=a7LQA8cAAAAJ&hl=en&oi=ao)).
 - Love to travel. 18 countries and counting.
+- I have also hosted several meetups related to language exchange and artificial intelligence in Canada and Europe.
+- I was featured in Entrepreneur Middle-East magazine.
 - Homepage: https://debanga.github.io 
 - LinkedIn: https://www.linkedin.com/in/debanga/
 
