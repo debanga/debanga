@@ -39,5 +39,13 @@ Ph.D (UBC), B. Tech (IITG), CF & CTO (Nytilus INC.)
   - Computer Graphics (Facial animation, facial muscle simulation)
   - AR/VR (Image-based scene capture for AR content generation)
 
+## Awrads 
+- 2019: Selected to represent Nytilus INC. in MoveUp Acceleration Program in Belgium (raised 100K Euros)
+- 2018: Selected to represent Nytilus INC. in Techstars Acceleration Program in Dubai, U.A.E. (raised 120K USD)
+- 2016: Best Paper Award, the 21st International Conference on 3D Web Technology (Web3D '16)
+- 2016: Mitacs Globalink Research Award - INRIA, MITACS and UBC
+- 2012-2016: Four Year Doctoral Fellowship, University of British Columbia
+- 2013: Gordon Research Trainee Fellowship, Gordon Research Conference on Eye Movements
+- 2011: Japanese Research Merit Award, Inspec Inc. Japan
 
 
