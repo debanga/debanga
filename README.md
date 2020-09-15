@@ -27,6 +27,9 @@ Ph.D (UBC), B. Tech (IITG), CF & CTO (Nytilus INC.)
   - General object detection, classification, and segmentation
   - High dynamic range imaging
   - Polarization-based object defect detection
+- Others
+  - Computer Graphics (Facial animation, facial muscle simulation)
+  - AR/VR (Image-based scene capture for AR content generation)
 
 
 
