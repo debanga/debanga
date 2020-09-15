@@ -15,6 +15,7 @@ Ph.D (UBC), B. Tech (IITG), CF & CTO (Nytilus INC.)
 - I was featured in Entrepreneur Middle-East magazine.
 - Homepage: https://debanga.github.io 
 - LinkedIn: https://www.linkedin.com/in/debanga/
+- Kaggle: https://www.kaggle.com/debanga
 
 ## Research collaborations 
 - **2019-(Ongoing): Iwahori Lab, Chubu University, Japan & Image Processing and Computer Vision (IPCV) Lab, IIT Guwahati, India**
