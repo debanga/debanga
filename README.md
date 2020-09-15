@@ -1,16 +1,28 @@
-### Hi there 👋
+## Who am I? 
 
-<!--
-**debanga/debanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Co-founder and CTO at [Nytilus](https://www.nytilus.com/), a computational imaging startup for industrial applications. Raised seed investments from early stage VCs and Canadian industrial grants.
+- Ph.D. in Computer Science from The University of British Columbia (UBC), Vancouver, Canada.
+- B.Tech in Electronics and Communication Engineering from the Indian Institute of Technology Guwahati (IITG).
+- 12+ years of experience in leading academic and industrial projects in the areas of computer vision, computer graphics, and machine learning.
+- Recipient of Mitacs-INRIA Globalink Research Award and Four-Year Doctoral Fellowship at UBC.
+- 15+ in peer reviewed research papers in conferences and journals ([Google Scholar](https://scholar.google.com/citations?user=a7LQA8cAAAAJ&hl=en&oi=ao)).
+- Love to travel. 18 countries and counting.
+- Homepage: https://debanga.github.io 
+- LinkedIn: https://www.linkedin.com/in/debanga/
 
-Here are some ideas to get you started:
+## Broad areas of interest
+- Computer vision
+- Machine learning, in particular deep learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Topics
+- Human face:
+  - Face tracking and animation
+  - Facial emotion recognition
+  - Biomechanical modeling of human face
+- Industrial inspection
+  - General object detection, classification, and segmentation
+  - High dynamic range imaging
+  - Polarization-based object defect detection
+
+
+
