@@ -18,7 +18,6 @@ Ph.D (UBC), B. Tech (IITG), CF & CTO (Nytilus INC.)
 - Kaggle: https://www.kaggle.com/debanga
 
 ## Research collaborations 
-- **2019-(Ongoing): Iwahori Lab, Chubu University, Japan & Image Processing and Computer Vision (IPCV) Lab, IIT Guwahati, India**
 - 2016-2017: IMAGINE Lab, INRIA Grenoble Rhone-Alpes, France
 - 2011-2012: IMAGER Lab, UBC, Canada
 - 2011-2012: Iwahori Lab, Chubu University, Japan
