@@ -3,8 +3,8 @@ Ph.D (UBC), B. Tech (IITG), CF & CTO (Nytilus INC.)
 #### COMPUTER VISION AND MACHINE LEARNING RESEARCHER, ENTREPRENEUR
 
 ## Who am I? 
-
-- **Co-founder and CTO at [Nytilus](https://www.nytilus.com/), a computational imaging startup for industrial applications. Raised seed investments from early stage VCs and Canadian industrial grants.**
+- [Assistant Professor](https://jeeadv.iitg.ac.in/iitg_faculty_details?name=Debanga%20Raj-Neog&fac=ZzltejlUeW1wZXVQWXpiS3RIQUNMQT09) in Mehta Family School of Data Science and Artificial Intelligence at Indian Institute of Technology Guwahati, India
+- Co-founder at Nytilus Inc., Toronto, a computational imaging startup for industrial applications. Raised seed investments from early stage VCs and Canadian industrial grants.
 - Ph.D. in Computer Science from The University of British Columbia (UBC), Vancouver, Canada.
 - B.Tech in Electronics and Communication Engineering from the Indian Institute of Technology Guwahati (IITG).
 - 12+ years of experience in leading academic and industrial projects in the areas of computer vision, computer graphics, and machine learning.
